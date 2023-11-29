@@ -1,4 +1,4 @@
-<h1> Hi, Welcome to my workspace! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"></h1>
+<h1> 👋 &nbsp;Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"></h1>
 <img src="./pictures/github-header-image.png" width="100%">
 
 <p><em>Data Scientist at <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
