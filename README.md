@@ -1,5 +1,6 @@
 <h1> Hi, I'm Hanyu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"></h1>
 <p><em>Data Scientist at <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Master of Science in DFinTech, B.S. in Statistics from <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--
 **whanyu1212/whanyu1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
