@@ -1,6 +1,6 @@
 <h1> Hi, I'm Hanyu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"></h1>
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/IMNTpz8txJ6tmkTp7Q/giphy.gif" width="100%" height="30%">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/IMNTpz8txJ6tmkTp7Q/giphy-downsized.gif" width="100%">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
