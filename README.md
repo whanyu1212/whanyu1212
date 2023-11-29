@@ -4,7 +4,7 @@
 <p><em>Data Scientist at <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p><em>Master of Science in DFinTech, B.S. in Statistics from <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIyNzU2cDR5dzhhNHFlZ2JmaGt2bXExdnhwYmZ4OXdwZ3pzcTc5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UslGBU1GPKc0g/giphy.gif" width="50"> A little more about me... 
 
 ```julia
 Hy = Dict(
