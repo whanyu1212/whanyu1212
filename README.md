@@ -1,6 +1,7 @@
 <h1> <img src="./pictures/wave.gif" width="30">&nbsp;Hi there! </h1>
 <img src="./pictures/github-header-image.png" width="100%">
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/)
 <p><em>Data Scientist at <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p><em>Master of Science in DFinTech, B.S. in Statistics from <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
