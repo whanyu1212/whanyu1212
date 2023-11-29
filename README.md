@@ -1,4 +1,4 @@
-<h1> Hi, I'm Hanyu! <img src="https://p3.itc.cn/q_70/images03/20210716/ceb93aee5826437388cf89149c86ed60.png" width="50" height="30"></h1>
+<h1> Hi, I'm Hanyu! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h1>
 
 <!--
 **whanyu1212/whanyu1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
