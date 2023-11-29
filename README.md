@@ -1,5 +1,9 @@
 <h1> Hi, I'm Hanyu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"></h1>
- <img src="https://media.giphy.com/media/IMNTpz8txJ6tmkTp7Q/giphy.gif>
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/IMNTpz8txJ6tmkTp7Q/giphy.gif">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 <p><em>Data Scientist at <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <p><em>Master of Science in DFinTech, B.S. in Statistics from <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--
