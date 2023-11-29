@@ -7,10 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
 
-<p><em>**Data Scientist at** <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p><em>**Master of Science in DFinTech, B.S. in Statistics** from <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em><strong>Data Scientist at</strong> <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em><strong>Master of Science in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"> A little more about me... 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"> A little more about me... 
 
 ```julia
 struct TechnophileProfile
