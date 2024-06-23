@@ -1,6 +1,6 @@
 <h1> <img src="./pictures/wave.gif" width="30">&nbsp;Hi there! </h1>
 <!-- <img src="./pictures/github-header-image.png" width="100%"> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=010506&multiline=true&random=false&width=435&height=100&lines=An+experienced+data+scientist;Always+learning+new+things)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&height=100&lines=An+experienced+data+scientist;Always+learning+new+things" alt="Typing SVG" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
 
