@@ -1,11 +1,8 @@
 <h1> <img src="./pictures/wave.gif" width="30">&nbsp;Hi there! </h1>
-<img src="./pictures/github-header-image.png" width="100%">
+<!-- <img src="./pictures/github-header-image.png" width="100%"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=010506&multiline=true&random=false&width=435&height=100&lines=An+experienced+data+scientist;Always+learning+new+things)](https://git.io/typing-svg)
 
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) <img src="https://via.placeholder.com/10x1" /> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) <img src="https://via.placeholder.com/10x1" /> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/) <img src="https://via.placeholder.com/10x1" /> [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
 
 <p><em><strong>Data Scientist at</strong> <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p><em><strong>Master of Science in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -43,6 +40,8 @@ hyProfile = TechnophileProfile(
 )
 
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats)
 
 > "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." Alain de Botton
 
