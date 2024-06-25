@@ -41,8 +41,16 @@ hyProfile = TechnophileProfile(
 
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats) 
-[![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=whanyu1212" /></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Spacing between images -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=whanyu1212" /></td>
+  </tr>
+</table>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats) 
+[![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats) -->
 
 > "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." Alain de Botton
 
