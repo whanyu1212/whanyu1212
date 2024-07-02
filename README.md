@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
 
 <p><em><strong>Data Scientist at</strong> <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p><em><strong>Master of Science in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em><strong>M.S.c in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"> A little more about me... 
 
@@ -51,8 +51,6 @@ hyProfile = TechnophileProfile(
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats) 
 [![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats) -->
-
-![snake animation](https://github.com/whanyu1212/whanyu1212/blob/output/github-contribution-grid-snake2.svg)
 
 > "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." Alain de Botton
 
