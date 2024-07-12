@@ -10,12 +10,6 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHR0cWl1NHlkbms1OThldXVtMzNyNXN4dTJsendsNG9jcm0weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="50"> A little more about me... 
 
 ```julia
-struct TechnophileProfile
-    DigitalBrushes::Vector{String}
-    PaletteOfSkills::Dict{String, Vector{String}}
-    SeedsNurturing::Vector{String}
-    BrainGym::Dict{String, String}
-end
 """
 Fields:
 - `DigitalBrushes`: Programming languages as digital brushes.
@@ -23,19 +17,25 @@ Fields:
 - `SeedsNurturing`: Current areas of interest, metaphorically the seeds being nurtured.
 - `BrainGym`: Preferred platforms for coding challenges, seen as a daily brain gym.
 """
+struct TechnophileProfile
+    DigitalBrushes::Vector{String}
+    PaletteOfSkills::Dict{String, Vector{String}}
+    SeedsNurturing::Vector{String}
+    BrainGym::Dict{String, String}
+end
 
 hyProfile = TechnophileProfile(
     ["Python", "Julia", "R", "SQL", "Typescript"], 
     Dict(
         "Weaving Magic" => ["Angular", "Node.js", "Typescript", "CSS", "HTML"], 
-        "Sky's the Limit" => ["GCP", "BigQuery", "Vertex AI", "Dataproc", "Cloud Composer", "Google Cloud Storage"], 
-        "Data Universe Navigation" => ["Pandas", "Numpy", "Tensorflow", "PyTorch", "Scikit-learn", "XGBoost", "Langchain", "Streamlit"], 
-        "Data Symphonies" => ["Prefect", "Mage", "Kestra"] 
+        "Cloud Horizons" => ["GCP", "BigQuery", "Vertex AI", "Dataproc", "Cloud Composer", "Google Cloud Storage"], 
+        "AI and Data Cosmos Exploration" => ["Pandas", "Numpy", "Pydantic", "Pandera", "Tensorflow", "PyTorch", "Scikit-learn", "XGBoost", "Langchain", "Streamlit", "AutoGen", "CrewAI"], 
+        "Data Symphonies" => ["Prefect", "Mage", "Kestra", "Kedro"] 
     ),
-    ["Julia", "LLM", "Differentially private ML", "End-to-end Data Science"],
+    ["Julia", "LLM Application", "End-to-end Data Science", "Production-ready Code"],
     Dict(
         "Python" => "Leetcode", 
-        "Julia & Typescript" => "Codewars" 
+        "Julia & Typescript" => "Leetcode & CodeWars" 
     )
 )
 
