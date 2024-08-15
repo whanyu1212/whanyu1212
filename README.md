@@ -11,33 +11,32 @@
 
 ```julia
 """
-Fields:
-- `DigitalBrushes`: Programming languages as digital brushes.
-- `PaletteOfSkills`: A dictionary of technology stacks as a palette of skills.
-- `SeedsNurturing`: Current areas of interest, metaphorically the seeds being nurtured.
-- `BrainGym`: Preferred platforms for coding challenges, seen as a daily brain gym.
+# Fields
+- `Languages::Vector{String}`: A list of programming languages the technophile is proficient in or familiar with.
+- `Skillset::Dict{String, Vector{String}}`: A dictionary mapping broad areas of expertise to specific tools, frameworks, or technologies. 
+- `LearningPlatforms::Vector{String}`: A list of platforms used for coding practice and skills development.
+- `Interests::Vector{String}`: A list of topics or areas the technophile is currently exploring or interested in
 """
 struct TechnophileProfile
-    DigitalBrushes::Vector{String}
-    PaletteOfSkills::Dict{String, Vector{String}}
-    SeedsNurturing::Vector{String}
-    BrainGym::Dict{String, String}
+    Languages::Vector{String}
+    Skillset::Dict{String, Vector{String}}
+    LearningPlatforms::Vector{String}
+    Interests::Vector{String}
 end
 
 hyProfile = TechnophileProfile(
-    ["Python", "Julia", "R", "SQL", "Typescript"], 
+    ["Python", "Julia", "R", "SQL", "JavaScript", "TypeScript", "C++], 
     Dict(
-        "Weaving Magic" => ["Angular", "Node.js", "Typescript", "CSS", "HTML"], 
-        "Cloud Horizons" => ["GCP", "BigQuery", "Vertex AI", "Dataproc", "Cloud Composer", "Google Cloud Storage"], 
-        "AI and Data Cosmos Exploration" => ["Pandas", "Numpy", "Pydantic", "Pandera", "Tensorflow", "PyTorch", "Scikit-learn", "XGBoost", "Langchain", "Streamlit", "AutoGen", "CrewAI"], 
-        "Data Symphonies" => ["Prefect", "Mage", "Kestra", "Kedro"] 
+        "Web Development" => ["Angular", "Node.js", "JavaScript","Typescript", "CSS", "HTML"], 
+        "Cloud Computing" => ["GCP", "BigQuery", "Vertex AI", "Dataproc", "Cloud Composer", "Cloud Build", "Google Cloud Storage"], 
+        "End-to-end DSML" => ["Pandas", "Numpy", "Pydantic", "Pandera", "Tensorflow", "PyTorch", "Scikit-learn", "XGBoost", "Poetry", "PyTest", "Cookiecutter"],
+        "AI & LLM Framework" => ["Langchain", "AutoGen", "CrewAI"]
+        "Data Engineering" => ["Prefect", "Mage", "Kestra", "Kedro", "PostgreSQL"] 
     ),
-    ["Julia", "LLM Application", "End-to-end Data Science", "Production-ready Code"],
-    Dict(
-        "Python" => "Leetcode", 
-        "Julia & Typescript" => "Leetcode & CodeWars" 
-    )
+    ["Leetcode", "Kattis", "HackerRank"],
+    ["Julia", "LLM Applications", "End-to-end Data Science Solution", "Production-ready Code"]
 )
+
 
 ```
 
