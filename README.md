@@ -19,7 +19,8 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 ### 💡 Current Interests
 - LLM applications in data science workflows  
 - Algorithmic trading strategies and quantitative finance  
-- Looking for Open-source contributions to the ML ecosystem  
+- Open-source contributions to the ML ecosystem  
+- High-performance computing with Julia and Rust for scalable ML and data processing 
 
 
 When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
