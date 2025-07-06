@@ -24,7 +24,10 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 
-
+<!-- GitHub Contribution Snake -->
+<a href="https://github.com/whanyu1212#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://github.com/whanyu1212/whanyu1212/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
 
 <table>
   <tr>
@@ -33,6 +36,8 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
     <td><img src="https://github-readme-stats.vercel.app/api?username=whanyu1212" /></td>
   </tr>
 </table>
+
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats)
 [![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats) -->
