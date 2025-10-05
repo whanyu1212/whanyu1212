@@ -15,6 +15,9 @@
 
 A Data Scientist with experience in delivering production-grade solutions. Equipped with extensive experience in machine learning, statistical analysis, and software engineering, while maintaining a strong focus on emerging AI technologies and industry best practices.
 
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 💡 Current Interests
 - LLM applications in data science workflows  
