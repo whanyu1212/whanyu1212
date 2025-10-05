@@ -17,6 +17,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com/whanyu1212/QuantRL-Lab/pull/18) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+2. 💪 Opened PR [#18](https://github.com/whanyu1212/QuantRL-Lab/pull/18) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+3. 🎉 Merged PR [#17](https://github.com/whanyu1212/QuantRL-Lab/pull/17) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+4. 💪 Opened PR [#17](https://github.com/whanyu1212/QuantRL-Lab/pull/17) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+5. ❗ Opened issue [#3018](https://github.com/google/adk-python/issues/3018) in [google/adk-python](https://github.com/google/adk-python)
 <!--END_SECTION:activity-->
 
 ### 💡 Current Interests
