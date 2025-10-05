@@ -1,15 +1,15 @@
-name: Generate Snake Animation
+name: Update Profile Assets and Activity
 
 on:
   schedule:
-    # Run once a day at midnight
-    - cron: "0 0 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  # Job to generate snake animation
+  generate_snake:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
@@ -26,5 +26,16 @@ jobs:
         with:
           target_branch: snake
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Job to update README with recent activity
+  update_readme:
+    runs-on: ubuntu-latest
+    # This job needs to run after the snake is generated if you want to be safe, but it's not strictly necessary. 
+    # For simplicity, we run them in parallel.
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
