@@ -19,11 +19,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/whanyu1212/QuantRL-Lab/pull/20) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-2. 💪 Opened PR [#2](https://github.com/ianforme/llm-debate-assistant/pull/2) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-3. 🎉 Merged PR [#19](https://github.com/whanyu1212/QuantRL-Lab/pull/19) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-4. 💪 Opened PR [#19](https://github.com/whanyu1212/QuantRL-Lab/pull/19) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-5. 🎉 Merged PR [#18](https://github.com/whanyu1212/QuantRL-Lab/pull/18) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+1. 🗣 Commented on [#3018](https://github.com/google/adk-python/issues/3018#issuecomment-3400687650) in [google/adk-python](https://github.com/google/adk-python)
+2. 🎉 Merged PR [#4](https://github.com/ianforme/llm-debate-assistant/pull/4) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+3. 💪 Opened PR [#20](https://github.com/whanyu1212/QuantRL-Lab/pull/20) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+4. 💪 Opened PR [#2](https://github.com/ianforme/llm-debate-assistant/pull/2) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+5. 🎉 Merged PR [#19](https://github.com/whanyu1212/QuantRL-Lab/pull/19) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
 <!--END_SECTION:activity-->
 
 ---
