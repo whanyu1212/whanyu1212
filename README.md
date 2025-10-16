@@ -19,11 +19,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3018](https://github.com/google/adk-python/issues/3018#issuecomment-3400687650) in [google/adk-python](https://github.com/google/adk-python)
-2. 💪 Opened PR [#21](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-3. 💪 Opened PR [#20](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-4. 💪 Opened PR [#2](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-5. 💪 Opened PR [#19](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+1. 💪 Opened PR [#27](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+2. 🚀 Published release [0.1.1](https://github.com/whanyu1212/QuantRL-Lab/releases/tag/v0.1.1) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+3. 💪 Opened PR [#26](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+4. 💪 Opened PR [#25](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+5. 🚀 Published release [v0.1.0](https://github.com/whanyu1212/QuantRL-Lab/releases/tag/v0.1.0) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
 <!--END_SECTION:activity-->
 
 ---
