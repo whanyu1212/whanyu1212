@@ -19,11 +19,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-2. 💪 Opened PR [#8](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-3. 💪 Opened PR [#7](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-4. 💪 Opened PR [#27](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
-5. 🚀 Published release [0.1.1](https://github.com/whanyu1212/QuantRL-Lab/releases/tag/v0.1.1) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
+1. ❗ Opened issue [#3248](https://github.com/google/adk-python/issues/3248) in [google/adk-python](https://github.com/google/adk-python)
+2. ❌ Closed PR [#8](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+3. 💪 Opened PR [#8](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+4. 💪 Opened PR [#7](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+5. 💪 Opened PR [#27](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)
 <!--END_SECTION:activity-->
 
 ---
