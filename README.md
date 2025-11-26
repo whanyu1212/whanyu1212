@@ -19,11 +19,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3706](https://github.com/google/adk-python/issues/3706) in [google/adk-python](https://github.com/google/adk-python)
-2. 🗣 Commented on [#2132](https://github.com/google/adk-python/issues/2132#issuecomment-3567845810) in [google/adk-python](https://github.com/google/adk-python)
-3. 🗣 Commented on [#2132](https://github.com/google/adk-python/issues/2132#issuecomment-3556337154) in [google/adk-python](https://github.com/google/adk-python)
-4. 💪 Opened PR [#12](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-5. 💪 Opened PR [#11](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+1. 🗣 Commented on [#3706](https://github.com/google/adk-python/issues/3706#issuecomment-3577889466) in [google/adk-python](https://github.com/google/adk-python)
+2. ❗ Opened issue [#3706](https://github.com/google/adk-python/issues/3706) in [google/adk-python](https://github.com/google/adk-python)
+3. 🗣 Commented on [#2132](https://github.com/google/adk-python/issues/2132#issuecomment-3567845810) in [google/adk-python](https://github.com/google/adk-python)
+4. 🗣 Commented on [#2132](https://github.com/google/adk-python/issues/2132#issuecomment-3556337154) in [google/adk-python](https://github.com/google/adk-python)
+5. 💪 Opened PR [#12](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
 <!--END_SECTION:activity-->
 
 ---
