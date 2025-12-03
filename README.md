@@ -19,11 +19,11 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-2. 💪 Opened PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-3. 🗣 Commented on [#3706](https://github.com/google/adk-python/issues/3706#issuecomment-3577889466) in [google/adk-python](https://github.com/google/adk-python)
-4. ❗ Opened issue [#3706](https://github.com/google/adk-python/issues/3706) in [google/adk-python](https://github.com/google/adk-python)
-5. 🗣 Commented on [#2132](https://github.com/google/adk-python/issues/2132#issuecomment-3567845810) in [google/adk-python](https://github.com/google/adk-python)
+1. ❌ Merged PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
+2. 💪 Opened PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
+3. ❌ Merged PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
+4. 💪 Opened PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
+5. 🗣 Commented on [#3706](https://github.com/google/adk-python/issues/3706#issuecomment-3577889466) in [google/adk-python](https://github.com/google/adk-python)
 <!--END_SECTION:activity-->
 
 ---
