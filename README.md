@@ -19,8 +19,8 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#13](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-2. 💪 Opened PR [#13](undefined) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+1. 🎉 Merged PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
+2. 💪 Opened PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
 3. ❌ Merged PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
 4. 💪 Opened PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
 5. ❌ Merged PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
