@@ -44,6 +44,7 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
   <img alt="GitHub Snake Light" src="https://github.com/whanyu1212/whanyu1212/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
+
 ### 📊 3D Contribution Graph
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -54,16 +55,6 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
     <td><img src="https://github-readme-stats.vercel.app/api?username=whanyu1212" /></td>
   </tr>
 </table>
-
-
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats)
-[![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats) -->
-
----
-
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized-light)
 
 ---
 
