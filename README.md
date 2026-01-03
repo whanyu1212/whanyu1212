@@ -2,7 +2,9 @@
 <!-- <img src="./pictures/github-header-image.png" width="100%"> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&height=100&lines=An+experienced+data+scientist;Always+learning+new+things" alt="Typing SVG" /></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/whanyu1212/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/)
+
+![](https://komarev.com/ghpvc/?username=whanyu1212&color=blueviolet&style=for-the-badge)
 
 <p><em><strong>Senior Data Scientist at</strong> <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p><em><strong>M.S.c in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -18,13 +20,8 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 ---
 
 ### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-2. 💪 Opened PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-3. ❌ Merged PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-4. 💪 Opened PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-5. ❌ Merged PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
@@ -42,6 +39,9 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
   <img alt="GitHub Snake Light" src="https://github.com/whanyu1212/whanyu1212/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
+### 📊 3D Contribution Graph
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <table>
   <tr>
     <td><img src="https://streak-stats.demolab.com/?user=whanyu1212" /></td>
@@ -55,7 +55,14 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=whanyu1212)](https://git.io/streak-stats)
 [![Hanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanyu1212)](https://github.com/whanyu1212/github-readme-stats) -->
 
-> "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." Alain de Botton
+---
+
+### 💭 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized-light)
+
+---
+
+> "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." - Alain de Botton
 
 <!--
 **whanyu1212/whanyu1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
