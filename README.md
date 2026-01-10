@@ -51,12 +51,12 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 ### 📊 GitHub Statistics
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&theme=github" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&theme=github&hide_border=true" />
 </p>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whanyu1212&theme=github" />
-  <img src="https://streak-stats.demolab.com/?user=whanyu1212" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whanyu1212&theme=github&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=whanyu1212&hide_border=true" />
 </p>
 
 ---
