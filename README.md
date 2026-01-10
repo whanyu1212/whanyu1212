@@ -20,13 +20,9 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 ---
 
 ### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-2. 💪 Opened PR [#13](https://github.com/ianforme/llm-debate-assistant/pull/13) in [ianforme/llm-debate-assistant](https://github.com/ianforme/llm-debate-assistant)
-3. ❌ Merged PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-4. 💪 Opened PR [#30](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-5. ❌ Merged PR [#29](undefined) in [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
@@ -45,16 +41,17 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 </a>
 
 
-### 📊 3D Contribution Graph
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+### 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=whanyu1212" /></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Spacing between images -->
-    <td><img src="https://github-readme-stats.vercel.app/api?username=whanyu1212" /></td>
-  </tr>
-</table>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&theme=github" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whanyu1212&theme=github" />
+</p>
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whanyu1212&theme=github" />
+  <img src="https://streak-stats.demolab.com/?user=whanyu1212" />
+</p>
 
 ---
 

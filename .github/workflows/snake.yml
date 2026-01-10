@@ -32,36 +32,10 @@ jobs:
   # Job to update README with recent activity
   update_readme:
     runs-on: ubuntu-latest
-    # This job needs to run after the snake is generated if you want to be safe, but it's not strictly necessary.
-    # For simplicity, we run them in parallel.
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # Job to generate 3D contribution graph
-  generate_3d_contrib:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit 3D Contribution Graph
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A .
-          git diff-index --quiet HEAD || git commit -m "Update 3D contribution graph"
-
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
