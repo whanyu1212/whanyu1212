@@ -52,7 +52,6 @@ When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&theme=github" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whanyu1212&theme=github" />
 </p>
 
 <p>
