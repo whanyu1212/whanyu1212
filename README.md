@@ -42,9 +42,9 @@ Last Updated: Sunday, February 1st, 2026, 12:26:37 AM
 
 When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
 
-<!-- GitHub Contribution Snake -->
-<a href="https://github.com/whanyu1212#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://github.com/whanyu1212/whanyu1212/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<!-- GitHub Contribution Space Shooter -->
+<a href="https://github.com/whanyu1212" align="center">
+  <img alt="GitHub Space Shooter" src="https://github.com/whanyu1212/whanyu1212/raw/snake/space-shooter.gif" />
 </a>
 
 

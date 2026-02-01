@@ -7,21 +7,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  # Job to generate snake animation
-  generate_snake:
+  # Job to generate space shooter animation
+  generate_space_shooter:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate Space Shooter Animation
+        uses: czl9707/gh-space-shooter@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: dist/space-shooter.gif
+          strategy: random
 
-      - name: Push to Snake Branch
+      - name: Push Animation to Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snake
