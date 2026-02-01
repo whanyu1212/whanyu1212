@@ -15,6 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate Space Shooter Animation
         uses: czl9707/gh-space-shooter@v1
         with:
