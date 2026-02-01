@@ -36,10 +36,13 @@ jobs:
   # Job to update README with recent activity
   update_readme:
     runs-on: ubuntu-latest
+    needs: generate_space_shooter  # Wait for space shooter job to complete first
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history to avoid conflicts
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
