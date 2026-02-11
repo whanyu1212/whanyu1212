@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SylphAI-Inc/coding_agent](https://github.com/SylphAI-Inc/coding_agent)<br>
+1. ⭐ Starred [SylphAI-Inc/codingagents.md](https://github.com/SylphAI-Inc/codingagents.md)<br>
 2. ⭐ Starred [pydantic/monty](https://github.com/pydantic/monty)<br>
 3. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 4. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 5. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 11th, 2026, 12:08:52 AM
+Last Updated: Wednesday, February 11th, 2026, 6:19:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
