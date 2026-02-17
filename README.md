@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
-2. ⭐ Starred [Rupas1k/source2-demo](https://github.com/Rupas1k/source2-demo)<br>
-3. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+1. ⭐ Starred [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)<br>
+2. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+3. ⭐ Starred [Rupas1k/source2-demo](https://github.com/Rupas1k/source2-demo)<br>
 4. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 5. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 17th, 2026, 6:16:36 AM
+Last Updated: Tuesday, February 17th, 2026, 12:06:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
