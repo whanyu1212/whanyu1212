@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dotabuff/manta](https://github.com/dotabuff/manta)<br>
-2. ⭐ Starred [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips)<br>
-3. ⬆️ Pushed to [edu-ai/QuantRL-Lab](https://github.com/edu-ai/QuantRL-Lab)<br>
-4. ⬆️ Pushed to [edu-ai/QuantRL-Lab](https://github.com/edu-ai/QuantRL-Lab)<br>
-5. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+1. ⭐ Starred [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)<br>
+2. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)<br>
+3. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
+4. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
+5. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 7th, 2026, 12:02:49 PM
+Last Updated: Saturday, March 7th, 2026, 6:02:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
