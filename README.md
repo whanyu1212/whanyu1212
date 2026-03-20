@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)<br>
-2. ⭐ Starred [svilupp/PromptingTools.jl](https://github.com/svilupp/PromptingTools.jl)<br>
-3. ⭐ Starred [LuxDL/DocumenterVitepress.jl](https://github.com/LuxDL/DocumenterVitepress.jl)<br>
-4. ⬆️ Pushed to [whanyu1212/Krill.jl](https://github.com/whanyu1212/Krill.jl)<br>
-5. ⬆️ Pushed to [whanyu1212/dota-tournament-lens](https://github.com/whanyu1212/dota-tournament-lens)<br>
+1. 💬 Commented on [#38](https://github.com/whanyu1212/gem-dota/issues/38#issuecomment-4095544552) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. ✌️ Released [v0.2.5](https://github.com/whanyu1212/gem-dota/releases/tag/v0.2.5) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. 💪 Opened PR [#40](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 20th, 2026, 12:05:18 AM
+Last Updated: Friday, March 20th, 2026, 6:14:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
