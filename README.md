@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#41](https://github.com/whanyu1212/gem-dota/issues/41#issuecomment-4099421285) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-3. 💪 Opened PR [#43](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-4. ✌️ Released [v0.2.6](https://github.com/whanyu1212/gem-dota/releases/tag/v0.2.6) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+1. ⬆️ Pushed to [whanyu1212/NimbleAgents.jl](https://github.com/whanyu1212/NimbleAgents.jl)<br>
+2. ⬆️ Pushed to [whanyu1212/NimbleAgents.jl](https://github.com/whanyu1212/NimbleAgents.jl)<br>
+3. 💬 Commented on [#41](https://github.com/whanyu1212/gem-dota/issues/41#issuecomment-4099421285) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. 💪 Opened PR [#43](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 21st, 2026, 12:02:47 PM
+Last Updated: Saturday, March 21st, 2026, 6:03:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
