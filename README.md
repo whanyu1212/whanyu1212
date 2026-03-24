@@ -22,13 +22,13 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-3. 💪 Opened PR [#47](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. 💪 Opened PR [#49](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ✌️ Released [v0.2.7](https://github.com/whanyu1212/gem-dota/releases/tag/v0.2.7) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 4. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. 💪 Opened PR [#46](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 24th, 2026, 6:18:41 AM
+Last Updated: Tuesday, March 24th, 2026, 12:10:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
