@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
-2. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-3. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)<br>
-4. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
-5. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
+1. ⬆️ Pushed to [whanyu1212/glicko-arena](https://github.com/whanyu1212/glicko-arena)<br>
+2. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
+3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+4. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)<br>
+5. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 12:12:45 PM
+Last Updated: Tuesday, March 31st, 2026, 6:14:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
