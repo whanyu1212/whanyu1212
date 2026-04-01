@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [whanyu1212/glicko-arena](https://github.com/whanyu1212/glicko-arena)<br>
-2. ⬆️ Pushed to [whanyu1212/glicko-arena](https://github.com/whanyu1212/glicko-arena)<br>
-3. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
-4. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-5. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)<br>
+1. ⭐ Starred [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper)<br>
+2. 💪 Opened PR [#1](undefined) in [whanyu1212/glicko-arena](https://github.com/whanyu1212/glicko-arena)<br>
+3. ⬆️ Pushed to [whanyu1212/glicko-arena](https://github.com/whanyu1212/glicko-arena)<br>
+4. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)<br>
+5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 1st, 2026, 6:29:34 AM
+Last Updated: Wednesday, April 1st, 2026, 12:12:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
