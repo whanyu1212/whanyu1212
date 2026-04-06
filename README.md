@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#127](https://github.com/cocoindex-io/cocoindex-code/issues/127) in [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)<br>
-2. ⭐ Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)<br>
-3. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-4. ⭐ Starred [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity)<br>
-5. ⭐ Starred [syifan/thebotcompany](https://github.com/syifan/thebotcompany)<br>
+1. ⭐ Starred [Xavier-Fan123/lpg-trading-knowledge-base](https://github.com/Xavier-Fan123/lpg-trading-knowledge-base)<br>
+2. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
+3. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+4. ⭐ Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)<br>
+5. ⭐ Starred [docker/awesome-compose](https://github.com/docker/awesome-compose)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 6th, 2026, 6:30:57 AM
+Last Updated: Monday, April 6th, 2026, 12:11:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
