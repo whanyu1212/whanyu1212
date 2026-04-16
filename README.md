@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-2. 💪 Opened PR [#11](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-4. ⭐ Starred [Wing900/ManimCat](https://github.com/Wing900/ManimCat)<br>
-5. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
+1. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+2. 💪 Opened PR [#34](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+3. 🚫 Closed PR [#33](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+4. 💪 Opened PR [#33](undefined) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+5. ⬆️ Pushed to [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 16th, 2026, 12:16:06 PM
+Last Updated: Thursday, April 16th, 2026, 6:21:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
