@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
-2. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-3. 💪 Opened PR [#17](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
+1. ⭐ Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)<br>
+2. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br>
+3. ⬆️ Pushed to [whanyu1212/mental-gym](https://github.com/whanyu1212/mental-gym)<br>
 4. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-5. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
+5. 💪 Opened PR [#17](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 12:08:07 AM
+Last Updated: Sunday, April 19th, 2026, 6:30:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
