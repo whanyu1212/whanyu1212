@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](undefined) in [whanyu1212/autonoml](https://github.com/whanyu1212/autonoml)<br>
-2. ⬆️ Pushed to [whanyu1212/autonoml](https://github.com/whanyu1212/autonoml)<br>
-3. 💪 Opened PR [#26](undefined) in [whanyu1212/autonoml](https://github.com/whanyu1212/autonoml)<br>
-4. 💬 Commented on [#36](https://github.com/whanyu1212/QuantRL-Lab/pull/36#issuecomment-4525318462) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
-5. 💬 Commented on [#36](https://github.com/whanyu1212/QuantRL-Lab/pull/36#issuecomment-4525316535) in [whanyu1212/QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab)<br>
+1. ⭐ Starred [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)<br>
+2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ⭐ Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)<br>
+4. 💪 Opened PR [#51](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 24th, 2026, 12:18:50 AM
+Last Updated: Sunday, May 24th, 2026, 7:00:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
