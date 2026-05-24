@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)<br>
+1. ✌️ Released [v0.2.8](https://github.com/whanyu1212/gem-dota/releases/tag/v0.2.8) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-3. ⭐ Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)<br>
-4. 💪 Opened PR [#51](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. 💪 Opened PR [#53](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 24th, 2026, 7:00:55 AM
+Last Updated: Sunday, May 24th, 2026, 12:17:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
