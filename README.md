@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#97](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-2. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-3. 💪 Opened PR [#96](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-4. ⬆️ Pushed to [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-5. 💪 Opened PR [#95](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
+1. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)<br>
+2. ⭐ Starred [ByteByteGoHq/coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns)<br>
+3. ⭐ Starred [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)<br>
+4. ⭐ Starred [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews)<br>
+5. 💪 Opened PR [#97](undefined) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 26th, 2026, 12:20:28 AM
+Last Updated: Tuesday, May 26th, 2026, 7:04:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
