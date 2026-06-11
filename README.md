@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
+1. ⬆️ Pushed to [whanyu1212/github-inbox-triage](https://github.com/whanyu1212/github-inbox-triage)<br>
 2. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
 3. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
 4. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
-5. ⬆️ Pushed to [whanyu1212/oh-my-AdaL](https://github.com/whanyu1212/oh-my-AdaL)<br>
+5. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 11th, 2026, 1:08:32 PM
+Last Updated: Thursday, June 11th, 2026, 6:56:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
