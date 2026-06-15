@@ -22,13 +22,13 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
-2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-3. 💪 Opened PR [#66](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-4. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
+3. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
+4. 💪 Opened PR [#1](undefined) in [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
+5. ⬆️ Pushed to [whanyu1212/coding-agents-for-everyday-knowledge-work](https://github.com/whanyu1212/coding-agents-for-everyday-knowledge-work)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 14th, 2026, 6:25:11 PM
+Last Updated: Monday, June 15th, 2026, 12:25:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
