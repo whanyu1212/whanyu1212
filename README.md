@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#95](https://github.com/whanyu1212/gem-dota/issues/95) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-2. ✔️ Closed issue [#161](https://github.com/whanyu1212/OpenCouch/issues/161) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-3. ✔️ Closed issue [#158](https://github.com/whanyu1212/OpenCouch/issues/158) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-4. ✔️ Closed issue [#159](https://github.com/whanyu1212/OpenCouch/issues/159) in [whanyu1212/OpenCouch](https://github.com/whanyu1212/OpenCouch)<br>
-5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+1. 💪 Opened PR [#120](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. ❗️ Opened issue [#119](https://github.com/whanyu1212/gem-dota/issues/119) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ✔️ Closed issue [#106](https://github.com/whanyu1212/gem-dota/issues/106) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. 💬 Commented on [#106](https://github.com/whanyu1212/gem-dota/issues/106#issuecomment-4807022217) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. 🚫 Closed PR [#105](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 26th, 2026, 12:25:30 AM
+Last Updated: Friday, June 26th, 2026, 7:11:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
