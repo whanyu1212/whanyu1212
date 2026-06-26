@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#120](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-2. ❗️ Opened issue [#119](https://github.com/whanyu1212/gem-dota/issues/119) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-3. ✔️ Closed issue [#106](https://github.com/whanyu1212/gem-dota/issues/106) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-4. 💬 Commented on [#106](https://github.com/whanyu1212/gem-dota/issues/106#issuecomment-4807022217) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. 🚫 Closed PR [#105](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+1. 💬 Commented on [#121](https://github.com/whanyu1212/gem-dota/pull/121#discussion_r3480304051) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. 💪 Opened PR [#121](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 26th, 2026, 7:11:20 AM
+Last Updated: Friday, June 26th, 2026, 12:36:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
