@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#123](undefined) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-2. ⭐ Starred [facebook/astryx](https://github.com/facebook/astryx)<br>
-3. ⭐ Starred [guocong-bincai/ai-interview-guide](https://github.com/guocong-bincai/ai-interview-guide)<br>
-4. 💬 Commented on [#114](https://github.com/whanyu1212/gem-dota/pull/114#discussion_r3474823431) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+1. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+2. 💬 Commented on [#124](https://github.com/whanyu1212/gem-dota/pull/124#discussion_r3487469989) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+3. ⬆️ Pushed to [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+4. 💬 Commented on [#124](https://github.com/whanyu1212/gem-dota/pull/124#issuecomment-4825120848) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
+5. 💬 Commented on [#124](https://github.com/whanyu1212/gem-dota/pull/124#issuecomment-4825115902) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 28th, 2026, 12:21:15 AM
+Last Updated: Sunday, June 28th, 2026, 7:16:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
