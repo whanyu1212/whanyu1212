@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#118](https://github.com/whanyu1212/Wisp/issues/118) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-2. ⬆️ Pushed to [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-3. 💪 Opened PR [#147](undefined) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-4. ✔️ Closed issue [#129](https://github.com/whanyu1212/Wisp/issues/129) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
+1. ⬆️ Pushed to [whanyu1212/ai-agent-book](https://github.com/whanyu1212/ai-agent-book)<br>
+2. ❗️ Opened issue [#63](https://github.com/bojieli/ai-agent-book/issues/63) in [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
+3. 🔱 Forked [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)<br>
+4. ✔️ Closed issue [#118](https://github.com/whanyu1212/Wisp/issues/118) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
 5. ⬆️ Pushed to [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 21st, 2026, 1:17:48 AM
+Last Updated: Tuesday, July 21st, 2026, 8:09:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
