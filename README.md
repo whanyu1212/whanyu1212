@@ -21,14 +21,14 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#494](https://github.com/whanyu1212/Wisp/pull/494#issuecomment-5472691197) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-2. 💬 Commented on [#494](https://github.com/whanyu1212/Wisp/pull/494#discussion_r3891195255) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-3. 💬 Commented on [#494](https://github.com/whanyu1212/Wisp/pull/494#discussion_r3891195196) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
+1. 💬 Commented on [#92](https://github.com/whanyu1212/greeks-in-the-loop/pull/92#issuecomment-5477922736) in [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
+2. 💬 Commented on [#92](https://github.com/whanyu1212/greeks-in-the-loop/pull/92#discussion_r3894174456) in [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
+3. ⬆️ Pushed to [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
 4. ⬆️ Pushed to [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
-5. 💬 Commented on [#87](https://github.com/whanyu1212/greeks-in-the-loop/pull/87#issuecomment-5472617586) in [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
+5. 🚫 Closed PR [#91](undefined) in [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 31st, 2026, 1:46:45 AM
+Last Updated: Monday, August 31st, 2026, 11:56:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
