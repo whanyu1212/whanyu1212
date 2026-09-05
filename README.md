@@ -7,17 +7,11 @@
   <a href="mailto:whanyu47@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
 </p>
 
-I build production-grade solutions using machine learning, statistics, and software engineering.
+I build applied AI systems — agents, data tools, and LLM applications that hold up in production.
 
-```yaml
-focus: applied AI engineering
-exploring: [AI agents, LLM applications]
-off_duty: [Dota 2, CS2, NBA, UFC]
-```
+## Projects
 
-## `~/projects`
-
-### [gem-dota](https://github.com/whanyu1212/gem-dota) · `featured`
+**[gem-dota](https://github.com/whanyu1212/gem-dota)** · featured
 
 Turn Dota 2 replays into data you can work with. Gem is a Python replay parser that extracts player state, combat events, and match timelines from `.dem` files, exports DataFrames, JSON, and Parquet, and generates HTML reports for match analysis.
 
@@ -30,43 +24,39 @@ Turn Dota 2 replays into data you can work with. Gem is a Python replay parser t
 | [OpenCouch](https://github.com/whanyu1212/OpenCouch) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
 | [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
 
-## `~/open-source`
+## Open source
 
-### [ai-agent-book](https://github.com/bojieli/ai-agent-book) · `contributor`
+**[ai-agent-book](https://github.com/bojieli/ai-agent-book)** · contributor
 
 One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/contributors) to Bojie Li's open-source book on AI agent design and engineering. My contributions span English translation improvements, chapter experiment organization, Python dependency consistency, and test refactoring.
 
 [Read the English edition →](https://github.com/bojieli/ai-agent-book/blob/main/docs/en/README.md) · [My merged contributions →](https://github.com/bojieli/ai-agent-book/pulls?q=is%3Apr+is%3Amerged+author%3Awhanyu1212)
 
-## `~/toolbox`
+## Toolbox
 
 ![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00E5FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=00E5FF)
 ![Julia](https://img.shields.io/badge/Julia-0B1020?style=for-the-badge&logo=julia&logoColor=00E5FF)
 
-## `~/exploring`
+## Exploring
 
 - AI agents and LLM-powered applications
 - Reinforcement learning and quantitative finance
 - Rust and Julia for high-performance computing
 
-## `~/arcade`
+## Arcade
 
 <a href="https://github.com/whanyu1212">
   <img src="https://github.com/whanyu1212/whanyu1212/raw/snake/space-shooter.gif" alt="Space-shooter animation of my GitHub contributions" width="100%" />
 </a>
 
-<details>
-<summary><code>~/stats</code> — GitHub at a glance</summary>
+## Stats
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&amp;theme=tokyonight&amp;title_color=00E5FF&amp;text_color=CBD5E1&amp;bg_color=0B1020&amp;border_color=243047&amp;chart_color=FF3CAC" alt="GitHub contribution summary for Hanyu" width="100%" />
 </p>
 
-</details>
-
-<details>
-<summary><code>~/activity.log</code> — Recent activity</summary>
+## Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
@@ -78,5 +68,3 @@ One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/co
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, September 5th, 2026, 2:04:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-</details>
