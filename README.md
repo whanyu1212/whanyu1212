@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="./pictures/terminal-header.svg" alt="Hanyu Wu — Applied AI Engineering" width="100%" />
+  <img src="./pictures/terminal-header.svg" alt="Hanyu — Applied AI Engineering" width="100%" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanyu-wu-6a610b165/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&amp;logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="mailto:whanyu47@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&amp;logo=gmail&amp;logoColor=00E5FF" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hanyu-wu-6a610b165/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:whanyu47@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
 </p>
 
 I build production-grade solutions using machine learning, statistics, and software engineering.
@@ -42,6 +42,7 @@ One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/co
 
 ![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00E5FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=00E5FF)
+![Julia](https://img.shields.io/badge/Julia-0B1020?style=for-the-badge&logo=julia&logoColor=00E5FF)
 
 ## `~/exploring`
 
@@ -59,7 +60,7 @@ One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/co
 <summary><code>~/stats</code> — GitHub at a glance</summary>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&amp;theme=tokyonight&amp;title_color=00E5FF&amp;text_color=CBD5E1&amp;bg_color=0B1020&amp;border_color=243047&amp;chart_color=FF3CAC" alt="GitHub contribution summary for Hanyu Wu" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&amp;theme=tokyonight&amp;title_color=00E5FF&amp;text_color=CBD5E1&amp;bg_color=0B1020&amp;border_color=243047&amp;chart_color=FF3CAC" alt="GitHub contribution summary for Hanyu" width="100%" />
 </p>
 
 </details>
