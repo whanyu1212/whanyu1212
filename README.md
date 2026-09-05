@@ -1,25 +1,72 @@
-<h1> <img src="./pictures/wave.gif" width="30">&nbsp;Hi there! </h1>
-<!-- <img src="./pictures/github-header-image.png" width="100%"> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&height=100&lines=An+experienced+data+scientist;Always+learning+new+things" alt="Typing SVG" /></a>
+<h1 align="center">
+  <img src="./pictures/terminal-header.svg" alt="Hanyu Wu — Applied AI Engineering" width="100%" />
+</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanyu-wu-6a610b165/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whanyu1212/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whanyu47@gmail.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanyu-wu-6a610b165/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&amp;logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:whanyu47@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&amp;logo=gmail&amp;logoColor=00E5FF" alt="Email" /></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=whanyu1212&color=blueviolet&style=for-the-badge)
+I build production-grade solutions using machine learning, statistics, and software engineering.
 
-<p><em><strong>Senior Data Scientist at</strong> <a href="https://sg.micron.com/">Micron Technology Singapore</a><img src="./pictures/micron.gif" width="30">
-<p><em><strong>M.S.c in DFinTech, B.S. in Statistics from</strong> <a href="https://nus.edu.sg/">National University of Singapore</a><img src="./pictures/nus.gif" width="30">
+```yaml
+focus: applied AI engineering
+exploring: [AI agents, LLM applications]
+off_duty: [Dota 2, CS2, NBA, UFC]
+```
 
-## <img src="./pictures/about-me.gif" width="50"> A little more about me...
+## `~/projects`
 
-#### Languages
+### [gem-dota](https://github.com/whanyu1212/gem-dota) · `featured`
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+Turn Dota 2 replays into data you can work with. Gem is a Python replay parser that extracts player state, combat events, and match timelines from `.dem` files, exports DataFrames, JSON, and Parquet, and generates HTML reports for match analysis.
 
-A Data Scientist with experience in delivering production-grade solutions. Equipped with extensive experience in machine learning, statistical analysis, and software engineering, while maintaining a strong focus on emerging AI technologies and industry best practices.
+[Code →](https://github.com/whanyu1212/gem-dota) · [Docs →](https://whanyu1212.github.io/gem-dota/) · [Sample report →](https://whanyu1212.github.io/gem-dota/reports/)
 
----
+| Project | What I'm building |
+| :--- | :--- |
+| [Wisp](https://github.com/whanyu1212/Wisp) | A coding agent with resumable sessions, approval controls, and inspectable transcripts, powered by one shared runtime across terminal, RPC, and SDK interfaces. |
+| [Krill.jl](https://github.com/whanyu1212/Krill.jl) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
+| [OpenCouch](https://github.com/whanyu1212/OpenCouch) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
+| [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
 
-### ⚡ Recent Activity
+## `~/open-source`
+
+### [ai-agent-book](https://github.com/bojieli/ai-agent-book) · `contributor`
+
+One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/contributors) to Bojie Li's open-source book on AI agent design and engineering. My contributions span English translation improvements, chapter experiment organization, Python dependency consistency, and test refactoring.
+
+[Read the English edition →](https://github.com/bojieli/ai-agent-book/blob/main/docs/en/README.md) · [My merged contributions →](https://github.com/bojieli/ai-agent-book/pulls?q=is%3Apr+is%3Amerged+author%3Awhanyu1212)
+
+## `~/toolbox`
+
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00E5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=00E5FF)
+
+## `~/exploring`
+
+- AI agents and LLM-powered applications
+- Reinforcement learning and quantitative finance
+- Rust and Julia for high-performance computing
+
+## `~/arcade`
+
+<a href="https://github.com/whanyu1212">
+  <img src="https://github.com/whanyu1212/whanyu1212/raw/snake/space-shooter.gif" alt="Space-shooter animation of my GitHub contributions" width="100%" />
+</a>
+
+<details>
+<summary><code>~/stats</code> — GitHub at a glance</summary>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&amp;theme=tokyonight&amp;title_color=00E5FF&amp;text_color=CBD5E1&amp;bg_color=0B1020&amp;border_color=243047&amp;chart_color=FF3CAC" alt="GitHub contribution summary for Hanyu Wu" width="100%" />
+</p>
+
+</details>
+
+<details>
+<summary><code>~/activity.log</code> — Recent activity</summary>
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
 2. ⬆️ Pushed to [whanyu1212/greeks-in-the-loop](https://github.com/whanyu1212/greeks-in-the-loop)<br>
@@ -31,49 +78,4 @@ A Data Scientist with experience in delivering production-grade solutions. Equip
 Last Updated: Saturday, September 5th, 2026, 2:04:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
----
-
-### 💡 Current Interests
-- LLM applications in data science workflows  
-- Algorithmic trading strategies and quantitative finance  
-- Open-source contributions to the ML ecosystem  
-- High-performance computing with Julia and Rust for scalable ML and data processing 
-
-
-When not coding, you'll find me playing Dota 2/CS2, following NBA/UFC.
-
-<!-- GitHub Contribution Space Shooter -->
-<a href="https://github.com/whanyu1212" align="center">
-  <img alt="GitHub Space Shooter" src="https://github.com/whanyu1212/whanyu1212/raw/snake/space-shooter.gif" />
-</a>
-
-
-### 📊 GitHub Statistics
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&theme=transparent" />
-</p>
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whanyu1212&theme=transparent" />
-  <img src="https://streak-stats.demolab.com/?user=whanyu1212&hide_border=true&theme=transparent" />
-</p>
-
----
-
-> "There is no such thing as work-life balance. Everything worth fighting for unbalances your life." - Alain de Botton
-
-<!--
-**whanyu1212/whanyu1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
