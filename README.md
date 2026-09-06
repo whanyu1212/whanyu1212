@@ -9,17 +9,40 @@
 
 I build applied AI systems — agents, data tools, and LLM applications that hold up in production.
 
-## Projects
+## Notable projects
 
-**[gem-dota](https://github.com/whanyu1212/gem-dota)** · featured
+### [gem-dota](https://github.com/whanyu1212/gem-dota)
 
-Turn Dota 2 replays into data you can work with. Gem is a Python replay parser that extracts player state, combat events, and match timelines from `.dem` files, exports DataFrames, JSON, and Parquet, and generates HTML reports for match analysis.
+From replay bytes to player paths, teamfights, and match insights. A Python parser that turns Dota 2 `.dem` files into DataFrames, JSON, Parquet, and interactive HTML reports.
+
+<p align="center">
+  <a href="https://whanyu1212.github.io/gem-dota/reports/">
+    <img src="./pictures/gem-movement-trail.png" alt="Gem match report showing player movement trails and positions across the Dota 2 map" width="620" />
+  </a>
+  <br />
+  <sub>Player movement reconstructed from a replay. Open the sample report to explore.</sub>
+</p>
 
 [Code →](https://github.com/whanyu1212/gem-dota) · [Docs →](https://whanyu1212.github.io/gem-dota/) · [Sample report →](https://whanyu1212.github.io/gem-dota/reports/)
 
+### [Wisp](https://github.com/whanyu1212/Wisp)
+
+A coding agent with resumable sessions, approval controls, and inspectable transcripts. One shared runtime across terminal, RPC, and SDK interfaces.
+
+<p align="center">
+  <a href="https://github.com/whanyu1212/Wisp">
+    <img src="./pictures/wisp-terminal.jpg" alt="Wisp terminal interface showing code diffs, tool execution output, and slash-command suggestions" width="800" />
+  </a>
+  <br />
+  <sub>Code changes, tool output, and session commands in the terminal.</sub>
+</p>
+
+[Code →](https://github.com/whanyu1212/Wisp)
+
+### More projects
+
 | Project | What I'm building |
 | :--- | :--- |
-| [Wisp](https://github.com/whanyu1212/Wisp) | A coding agent with resumable sessions, approval controls, and inspectable transcripts, powered by one shared runtime across terminal, RPC, and SDK interfaces. |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
 | [OpenCouch](https://github.com/whanyu1212/OpenCouch) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
 | [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
@@ -44,27 +67,16 @@ One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/co
 - Reinforcement learning and quantitative finance
 - Rust and Julia for high-performance computing
 
+## Updates
+
+<!-- Curated milestones: keep three dated releases or merged contributions, newest first. -->
+
+- **2026-09-04 · [gem-dota v0.7.1](https://github.com/whanyu1212/gem-dota/releases/tag/v0.7.1)** — Improved full-replay parsing performance while preserving normalized output, and added reproducible replay fixtures for integration tests.
+- **2026-08-23 · [Wisp v0.1.0](https://github.com/whanyu1212/Wisp/releases/tag/v0.1.0)** — Released terminal steering and follow-up controls, reduced tool-output flicker, and streamlined startup.
+- **2026-07-31 · [ai-agent-book contribution](https://github.com/bojieli/ai-agent-book/pull/425)** — Merged shared provider infrastructure, chapter dependency setup, and experiment-structure improvements into the upstream book.
+
 ## Arcade
 
 <a href="https://github.com/whanyu1212">
   <img src="https://github.com/whanyu1212/whanyu1212/raw/snake/space-shooter.gif" alt="Space-shooter animation of my GitHub contributions" width="100%" />
 </a>
-
-## Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whanyu1212&amp;theme=tokyonight&amp;title_color=00E5FF&amp;text_color=CBD5E1&amp;bg_color=0B1020&amp;border_color=243047&amp;chart_color=FF3CAC" alt="GitHub contribution summary for Hanyu" width="100%" />
-</p>
-
-## Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#510](undefined) in [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-2. ⬆️ Pushed to [whanyu1212/whanyu1212](https://github.com/whanyu1212/whanyu1212)<br>
-3. ⬆️ Pushed to [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-4. ✔️ Closed issue [#163](https://github.com/whanyu1212/gem-dota/issues/163) in [whanyu1212/gem-dota](https://github.com/whanyu1212/gem-dota)<br>
-5. ⬆️ Pushed to [whanyu1212/Wisp](https://github.com/whanyu1212/Wisp)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 6th, 2026, 1:26:12 AM
-<!--RECENT_ACTIVITY:last_update_end-->
