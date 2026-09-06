@@ -17,7 +17,7 @@ From replay bytes to player paths, teamfights, and match insights. A Python pars
 
 <p align="center">
   <a href="https://whanyu1212.github.io/gem-dota/reports/">
-    <img src="./pictures/gem-movement-trail.png" alt="Gem match report showing player movement trails and positions across the Dota 2 map" width="620" />
+    <img src="./pictures/gem-movement-trail.png" alt="Gem match report showing player movement trails and positions across the Dota 2 map" width="400" />
   </a>
   <br />
   <sub>Player movement reconstructed from a replay. Open the sample report to explore.</sub>
@@ -31,7 +31,7 @@ A coding agent with resumable sessions, approval controls, and inspectable trans
 
 <p align="center">
   <a href="https://github.com/whanyu1212/Wisp">
-    <img src="./pictures/wisp-terminal.jpg" alt="Wisp terminal interface showing code diffs, tool execution output, and slash-command suggestions" width="800" />
+    <img src="./pictures/wisp-terminal.jpg" alt="Wisp terminal interface showing code diffs, tool execution output, and slash-command suggestions" width="400" />
   </a>
   <br />
   <sub>Code changes, tool output, and session commands in the terminal.</sub>
