@@ -11,7 +11,7 @@ I build applied AI systems — agents, data tools, and LLM applications that hol
 
 ## Notable projects
 
-### [gem-dota](https://github.com/whanyu1212/gem-dota)
+### [gem-dota](https://github.com/whanyu1212/gem-dota) [![gem-dota stars](https://img.shields.io/github/stars/whanyu1212/gem-dota?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/gem-dota/stargazers)
 
 From replay bytes to player paths, teamfights, and match insights. A Python parser that turns Dota 2 `.dem` files into DataFrames, JSON, Parquet, and interactive HTML reports.
 
@@ -25,7 +25,7 @@ From replay bytes to player paths, teamfights, and match insights. A Python pars
 
 [Code →](https://github.com/whanyu1212/gem-dota) · [Docs →](https://whanyu1212.github.io/gem-dota/) · [Sample report →](https://whanyu1212.github.io/gem-dota/reports/)
 
-### [Wisp](https://github.com/whanyu1212/Wisp)
+### [Wisp](https://github.com/whanyu1212/Wisp) [![Wisp stars](https://img.shields.io/github/stars/whanyu1212/Wisp?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/Wisp/stargazers)
 
 A coding agent with resumable sessions, approval controls, and inspectable transcripts. One shared runtime across terminal, RPC, and SDK interfaces.
 
@@ -49,7 +49,7 @@ A coding agent with resumable sessions, approval controls, and inspectable trans
 
 ## Open source
 
-**[ai-agent-book](https://github.com/bojieli/ai-agent-book)** · contributor
+**[ai-agent-book](https://github.com/bojieli/ai-agent-book)** · contributor [![ai-agent-book stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/bojieli/ai-agent-book/stargazers)
 
 One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/contributors) to Bojie Li's open-source book on AI agent design and engineering. My contributions span English translation improvements, chapter experiment organization, Python dependency consistency, and test refactoring.
 
