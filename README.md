@@ -43,9 +43,9 @@ A coding agent with resumable sessions, approval controls, and inspectable trans
 
 | Project | What I'm building |
 | :--- | :--- |
-| [Krill.jl](https://github.com/whanyu1212/Krill.jl) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
-| [OpenCouch](https://github.com/whanyu1212/OpenCouch) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
-| [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
+| [Krill.jl](https://github.com/whanyu1212/Krill.jl) [![Krill.jl stars](https://img.shields.io/github/stars/whanyu1212/Krill.jl?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/Krill.jl/stargazers) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
+| [OpenCouch](https://github.com/whanyu1212/OpenCouch) [![OpenCouch stars](https://img.shields.io/github/stars/whanyu1212/OpenCouch?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/OpenCouch/stargazers) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
+| [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) [![QuantRL-Lab stars](https://img.shields.io/github/stars/whanyu1212/QuantRL-Lab?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/QuantRL-Lab/stargazers) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
 
 ## Open source
 
