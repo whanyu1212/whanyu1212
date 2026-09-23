@@ -1,7 +1,7 @@
 """Frame README screenshots in terminal windows that match the profile header.
 
-Every card comes out at the same size, so they sit side by side in the README
-without uneven heights. Re-run after replacing a source screenshot:
+Cards come out at the same size, so they sit side by side in the README
+without uneven heights. A card can set "size" for a wider banner. Re-run after replacing a source screenshot:
 
     python3 scripts/frame_screenshots.py
 """
@@ -20,7 +20,7 @@ TITLE_TEXT = "#8B9BB3"
 DOTS = [("#FF3CAC", 1.0), ("#00E5FF", 0.55), ("#CBD5E1", 0.28)]
 
 SCALE = 2  # Draw chrome at 2x, then downsample for smooth edges.
-CONTENT_W, CONTENT_H = 800, 600
+CARD_SIZE = (800, 600)  # Content area; the title bar sits on top.
 BAR_H = 32
 RADIUS = 10
 
@@ -36,6 +36,25 @@ CARDS = [
         "crop": (0, 0, 800, 600),  # Diff, tool output, and the slash-command menu.
         "title": "~/Wisp — wisp",
         "output": "card-wisp.webp",
+    },
+    {
+        "source": "opencouch-chat.png",
+        "crop": (420, 103, 1070, 590),  # Welcome panel and prompt cards; stops above raw thread IDs.
+        "title": "~/OpenCouch — chat",
+        "output": "card-opencouch.webp",
+    },
+    {
+        "source": "quantrl-docs.png",
+        "crop": (0, 0, 2368, 1776),  # Docs home in the dark theme, minus the scrollbar.
+        "title": "~/QuantRL-Lab — docs",
+        "output": "card-quantrl-lab.webp",
+    },
+    {
+        "source": "observatory-universe.jpg",
+        "crop": (0, 0, 2560, 1600),  # Full landing view of the 3D universe.
+        "title": "~/observatory — observatory-azure.vercel.app",
+        "output": "banner-observatory.webp",
+        "size": (1200, 750),
     },
 ]
 
@@ -53,17 +72,19 @@ def blend(hex_color: str, opacity: float, base: str = TITLE_BAR) -> tuple[int, i
     return tuple(round(f * opacity + b * (1 - opacity)) for f, b in zip(fg, bg))
 
 
-def fit_content(source: Path, crop: tuple[int, int, int, int]) -> Image.Image:
+def fit_content(source: Path, crop: tuple[int, int, int, int], size: tuple[int, int]) -> Image.Image:
     """Letterbox the cropped screenshot, padding with its own background colour."""
+    content_w, content_h = size
     shot = Image.open(source).convert("RGB").crop(crop)
-    shot.thumbnail((CONTENT_W, CONTENT_H), Image.LANCZOS)
-    canvas = Image.new("RGB", (CONTENT_W, CONTENT_H), shot.getpixel((2, 2)))
-    canvas.paste(shot, ((CONTENT_W - shot.width) // 2, (CONTENT_H - shot.height) // 2))
+    shot.thumbnail((content_w, content_h), Image.LANCZOS)
+    canvas = Image.new("RGB", (content_w, content_h), shot.getpixel((2, 2)))
+    canvas.paste(shot, ((content_w - shot.width) // 2, (content_h - shot.height) // 2))
     return canvas
 
 
 def draw_window(content: Image.Image, title: str) -> Image.Image:
-    w, h = CONTENT_W * SCALE, (CONTENT_H + BAR_H) * SCALE
+    content_w, content_h = content.size
+    w, h = content_w * SCALE, (content_h + BAR_H) * SCALE
     bar = BAR_H * SCALE
 
     window = Image.new("RGB", (w, h), TITLE_BAR)
@@ -85,12 +106,12 @@ def draw_window(content: Image.Image, title: str) -> Image.Image:
     ImageDraw.Draw(framed).rounded_rectangle(
         [0, 0, w - 1, h - 1], RADIUS * SCALE, outline=BORDER, width=SCALE
     )
-    return framed.resize((CONTENT_W, CONTENT_H + BAR_H), Image.LANCZOS)
+    return framed.resize((content_w, content_h + BAR_H), Image.LANCZOS)
 
 
 def main() -> None:
     for card in CARDS:
-        content = fit_content(PICTURES / card["source"], card["crop"])
+        content = fit_content(PICTURES / card["source"], card["crop"], card.get("size", CARD_SIZE))
         out = PICTURES / card["output"]
         # WebP keeps the transparent corners at a fraction of the PNG size.
         draw_window(content, card["title"]).save(out, quality=88, method=6)
