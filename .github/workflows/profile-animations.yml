@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Create output directory
         run: mkdir -p dist
@@ -24,6 +24,8 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: dist/space-shooter.gif
           strategy: random
+          # The GIF is served from the snake branch below; don't commit it to main.
+          no-commit: true
 
       - name: Push Animation to Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -32,3 +34,24 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Job to refresh the ~/changelog section from recent releases
+  update_changelog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild changelog
+        run: python3 scripts/update_changelog.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh profile changelog"
+          git push
