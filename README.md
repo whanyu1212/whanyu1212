@@ -22,7 +22,7 @@ I build applied AI systems — agents, data tools, and LLM applications that hol
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/whanyu1212/gem-dota">gem-dota</a>
-        <a href="https://github.com/whanyu1212/gem-dota/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/gem-dota?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="gem-dota stars" /></a>
+        <a href="https://github.com/whanyu1212/gem-dota/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/gem-dota?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="gem-dota stars" align="absmiddle" /></a>
       </h3>
       <a href="https://whanyu1212.github.io/gem-dota/reports/">
         <img src="./pictures/card-gem-dota.webp" alt="Gem match report showing player movement trails and positions across the Dota 2 map" width="100%" />
@@ -37,7 +37,7 @@ I build applied AI systems — agents, data tools, and LLM applications that hol
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/whanyu1212/Wisp">Wisp</a>
-        <a href="https://github.com/whanyu1212/Wisp/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/Wisp?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="Wisp stars" /></a>
+        <a href="https://github.com/whanyu1212/Wisp/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/Wisp?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="Wisp stars" align="absmiddle" /></a>
       </h3>
       <a href="https://github.com/whanyu1212/Wisp">
         <img src="./pictures/card-wisp.webp" alt="Wisp terminal interface showing code diffs, tool execution output, and slash-command suggestions" width="100%" />
@@ -53,15 +53,15 @@ I build applied AI systems — agents, data tools, and LLM applications that hol
 
 ### More projects
 
-| Project | Stack | What I'm building |
-| :--- | :--- | :--- |
-| [Krill.jl](https://github.com/whanyu1212/Krill.jl) [![Krill.jl stars](https://img.shields.io/github/stars/whanyu1212/Krill.jl?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/Krill.jl/stargazers) | ![Julia](https://img.shields.io/badge/Julia-0B1020?style=flat&logo=julia&logoColor=FF3CAC) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
-| [OpenCouch](https://github.com/whanyu1212/OpenCouch) [![OpenCouch stars](https://img.shields.io/github/stars/whanyu1212/OpenCouch?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/OpenCouch/stargazers) | ![Python](https://img.shields.io/badge/Python-0B1020?style=flat&logo=python&logoColor=FF3CAC) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=flat&logo=typescript&logoColor=FF3CAC) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
-| [QuantRL-Lab](https://github.com/whanyu1212/QuantRL-Lab) [![QuantRL-Lab stars](https://img.shields.io/github/stars/whanyu1212/QuantRL-Lab?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/whanyu1212/QuantRL-Lab/stargazers) | ![Python](https://img.shields.io/badge/Python-0B1020?style=flat&logo=python&logoColor=FF3CAC) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
+| Project | Stars | Stack | What I'm building |
+| :--- | :--- | :--- | :--- |
+| [Krill.jl](https://github.com/whanyu1212/Krill.jl) | <a href="https://github.com/whanyu1212/Krill.jl/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/Krill.jl?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="Krill.jl stars" align="absmiddle" /></a> | ![Julia](https://img.shields.io/badge/Julia-0B1020?style=flat&logo=julia&logoColor=FF3CAC) | A Julia-native AI agent runtime for Telegram and Discord, with persistent memory, scheduled tasks, MCP tools, and coding-agent delegation. In active development. |
+| [OpenCouch](https://github.com/whanyu1212/OpenCouch) | <a href="https://github.com/whanyu1212/OpenCouch/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/OpenCouch?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="OpenCouch stars" align="absmiddle" /></a> | ![Python](https://img.shields.io/badge/Python-0B1020?style=flat&logo=python&logoColor=FF3CAC) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=flat&logo=typescript&logoColor=FF3CAC) | A pre-beta AI companion for self-reflection and guided wellness exercises, with persistent memory and safety routing. |
+| [QuantRL&#8209;Lab](https://github.com/whanyu1212/QuantRL-Lab) | <a href="https://github.com/whanyu1212/QuantRL-Lab/stargazers"><img src="https://img.shields.io/github/stars/whanyu1212/QuantRL-Lab?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="QuantRL-Lab stars" align="absmiddle" /></a> | ![Python](https://img.shields.io/badge/Python-0B1020?style=flat&logo=python&logoColor=FF3CAC) | A Python testbed for reinforcement learning in quantitative trading, with pluggable action, observation, and reward strategies. |
 
 ## ~/open-source
 
-**[ai-agent-book](https://github.com/bojieli/ai-agent-book)** · contributor [![ai-agent-book stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat&label=stars&labelColor=0B1020&color=00E5FF)](https://github.com/bojieli/ai-agent-book/stargazers)
+**[ai-agent-book](https://github.com/bojieli/ai-agent-book)** · contributor <a href="https://github.com/bojieli/ai-agent-book/stargazers"><img src="https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat&label=stars&labelColor=0B1020&color=00E5FF" alt="ai-agent-book stars" align="absmiddle" /></a>
 
 One of the [top contributors](https://github.com/bojieli/ai-agent-book/graphs/contributors) to Bojie Li's open-source book on AI agent design and engineering. My contributions span English translation improvements, chapter experiment organization, Python dependency consistency, and test refactoring.
 
