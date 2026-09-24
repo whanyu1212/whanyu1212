@@ -18,14 +18,19 @@ jobs:
       - name: Create output directory
         run: mkdir -p dist
 
-      - name: Generate Space Shooter Animation
-        uses: czl9707/gh-space-shooter@v1
+      - uses: actions/setup-python@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: dist/space-shooter.gif
-          strategy: random
-          # The GIF is served from the snake branch below; don't commit it to main.
-          no-commit: true
+          python-version: "3.12"
+
+      # Run the CLI directly: the published gh-space-shooter action always
+      # commits the GIF to the checked-out branch, but it is served from the
+      # snake branch below and must not land on main.
+      - name: Generate Space Shooter Animation
+        run: |
+          pip install "gh-space-shooter>=2,<3"
+          gh-space-shooter ${{ github.repository_owner }} --output dist/space-shooter.gif --strategy random
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Animation to Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
