@@ -55,7 +55,7 @@ text{white-space:pre}
 <tspan x="538.1" y="89.5"><tspan class="dots">. </tspan><tspan class="key">Location</tspan><tspan class="txt">: </tspan><tspan class="dots">..................................... </tspan><tspan class="val">Singapore</tspan></tspan>
 <tspan x="538.1" y="109.5"><tspan class="dots">. </tspan><tspan class="key">Role</tspan><tspan class="txt">: </tspan><tspan class="dots">............................... </tspan><tspan class="val">Applied AI Engineer</tspan></tspan>
 <tspan x="538.1" y="129.5"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan><tspan class="txt">: </tspan><tspan class="dots">...................... </tspan><tspan class="val">AI agents, LLM applications</tspan></tspan>
-<tspan x="538.1" y="149.5"><tspan class="dots">. </tspan><tspan class="key">Exploring</tspan><tspan class="txt">: </tspan><tspan class="dots">............ </tspan><tspan class="val">RL for quant finance, Rust, Julia</tspan></tspan>
+<tspan x="538.1" y="149.5"><tspan class="dots">. </tspan><tspan class="key">Exploring</tspan><tspan class="txt">: </tspan><tspan class="dots">.. </tspan><tspan class="val">RL for quant finance, Rust, agentic trading</tspan></tspan>
 <tspan x="538.1" y="189.5"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="txt">: </tspan><tspan class="dots">.. </tspan><tspan class="val">Python, TypeScript, Julia, Rust</tspan></tspan>
 <tspan x="538.1" y="229.5"><tspan class="txt">- Projects </tspan><tspan class="txt">───────────────────────────────────────────────</tspan></tspan>
 <tspan x="538.1" y="249.5"><tspan class="dots">. </tspan><tspan class="key">Projects.Agents</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="val">Wisp, Krill.jl, OpenCouch</tspan></tspan>
@@ -65,8 +65,9 @@ text{white-space:pre}
 <tspan x="538.1" y="349.5"><tspan class="txt">- Contact </tspan><tspan class="txt">────────────────────────────────────────────────</tspan></tspan>
 <tspan x="538.1" y="369.5"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan><tspan class="txt">: </tspan><tspan class="dots">...................... </tspan><tspan class="val">whanyu47@gmail.com</tspan></tspan>
 <tspan x="538.1" y="389.5"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="txt">: </tspan><tspan class="dots">............................ </tspan><tspan class="val">hanyu-wu-6a610b165</tspan></tspan>
-<tspan x="538.1" y="409.5"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan><tspan class="txt">: </tspan><tspan class="dots">................. </tspan><tspan class="val">observatory-azure.vercel.app</tspan></tspan>
-<tspan x="538.1" y="449.5"><tspan class="txt">- GitHub Stats </tspan><tspan class="txt">───────────────────────────────────────────</tspan></tspan>
-<tspan x="538.1" y="469.5"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="txt">: </tspan><tspan class="dots">.................................. </tspan><tspan class="val">64 | Stars: 344</tspan></tspan>
-<tspan x="538.1" y="489.5"><tspan class="dots">. </tspan><tspan class="key">Contributions (1y)</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="val">5,268 | Followers: 125</tspan></tspan>
+<tspan x="538.1" y="409.5"><tspan class="dots">. </tspan><tspan class="key">X</tspan><tspan class="txt">: </tspan><tspan class="dots">....................................... </tspan><tspan class="val">@queryverse_hy</tspan></tspan>
+<tspan x="538.1" y="429.5"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan><tspan class="txt">: </tspan><tspan class="dots">................. </tspan><tspan class="val">observatory-azure.vercel.app</tspan></tspan>
+<tspan x="538.1" y="469.5"><tspan class="txt">- GitHub Stats </tspan><tspan class="txt">───────────────────────────────────────────</tspan></tspan>
+<tspan x="538.1" y="489.5"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="txt">: </tspan><tspan class="dots">.................................. </tspan><tspan class="val">64 | Stars: 344</tspan></tspan>
+<tspan x="538.1" y="509.5"><tspan class="dots">. </tspan><tspan class="key">Contributions (1y)</tspan><tspan class="txt">: </tspan><tspan class="dots">.............. </tspan><tspan class="val">5,268 | Followers: 125</tspan></tspan>
 </text></svg>
