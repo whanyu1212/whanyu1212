@@ -35,23 +35,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # Job to refresh the ~/changelog section from recent releases
-  update_changelog:
+  # Job to refresh the GitHub Stats lines in the profile card
+  update_card_stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Rebuild changelog
-        run: python3 scripts/update_changelog.py
+      - name: Refresh card stats
+        run: python3 scripts/update_card_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
-          git diff --quiet README.md && exit 0
+          git diff --quiet pictures/profile-card.svg && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "Refresh profile changelog"
+          git commit -am "Refresh profile card stats"
           git push
